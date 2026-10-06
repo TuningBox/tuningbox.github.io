@@ -36,16 +36,15 @@ git push -u origin main
 
 ### Adım 4: URL'i Al
 
-Birkaç dakika sonra siteniz hazır olacak:
+Birkaç dakika sonra siteniz hazır olacak. Canlı adres:
 
 ```
-https://[KULLANICI_ADI].github.io/tuningbox-website/
+https://tuningbox.github.io/
 ```
 
-**Örnek:**
-- Ana Sayfa: `https://ariffbasaran.github.io/tuningbox-website/`
-- Privacy Policy: `https://ariffbasaran.github.io/tuningbox-website/privacy.html`
-- Terms of Service: `https://ariffbasaran.github.io/tuningbox-website/terms.html`
+- Ana Sayfa: `https://tuningbox.github.io/`
+- Privacy Policy: `https://tuningbox.github.io/privacy.html`
+- Terms of Service: `https://tuningbox.github.io/terms.html`
 
 ## 📝 Dosyalar
 
@@ -57,13 +56,8 @@ https://[KULLANICI_ADI].github.io/tuningbox-website/
 
 ### E-posta Adresini Değiştirme
 
-`privacy.html` ve `terms.html` dosyalarında:
-- `support@tuningbox.app` kısmını kendi e-posta adresinizle değiştirin
-
-### Web Sitesi URL'ini Değiştirme
-
-`privacy.html` ve `terms.html` dosyalarında:
-- `https://ariffbasaran.github.io/tuningbox-website` kısmını kendi URL'inizle değiştirin
+`privacy.html` ve `terms.html` dosyalarında kanonik destek e-postası:
+- `tuningbox.ai@gmail.com`
 
 ## ✅ Kontrol
 
@@ -76,8 +70,8 @@ Deploy sonrası şu URL'leri test edin:
 ## 📱 App Store'da Kullanım
 
 App Store Connect'te:
-- **Privacy Policy URL**: `https://[KULLANICI_ADI].github.io/tuningbox-website/privacy.html`
-- **Terms of Service URL**: `https://[KULLANICI_ADI].github.io/tuningbox-website/terms.html`
+- **Privacy Policy URL**: `https://tuningbox.github.io/privacy.html`
+- **Terms of Service URL**: `https://tuningbox.github.io/terms.html`
 
 ---
 
